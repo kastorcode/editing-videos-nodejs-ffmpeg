@@ -1,0 +1,13 @@
+{
+  "name": "editing-videos-nodejs-ffmpeg-frontend",
+  "version": "1.0.0",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "clear && npx http-server src"
+  },
+  "author": "<kastor.code/> Matheus Ramalho de Oliveira",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
